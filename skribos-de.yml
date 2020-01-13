@@ -4,26 +4,11 @@ downloads:
   - github: Wohnzimmer-FM/lernos-media
     to: external
 
-#  - github: leonidlezner/skribos-cli-demo-common
-#    to: external
-#    override: true
-#  - github: leonidlezner/skribos-cli-demo-media
-#    to: external
-#    override: true
-#  - github: leonidlezner/skribos-cli-demo-license
-#    to: external
-#    override: true
-
 chapters:
-#  - external/skribos-cli-demo-common/cover.md
-#  - external/skribos-cli-demo-license/license.md
-
   - metadata/metadata-de.yaml
   - guide/katas.md
   - guide/kata1.md
-#  - dist/book/kata2.md
-#  - dist/book/kata3.md
-#  - external/skribos-cli-demo-common/back.md
+  - guide/kata2.md
 
 build:
   vars:
@@ -31,7 +16,6 @@ build:
     language: de-de
     metadata: "--epub-metadata=metadata/metadata-de.yaml"
     textemp: "--template=external/lernos-common/templates/lernos.latex"
-    epubcover: "--epub-cover-image=dist/ebook-cover.png"
 
   jobs:
     - name: Clean up
@@ -43,14 +27,14 @@ build:
     - name: Create HTML
       command: pandoc $files -o $output/index.html --from markdown --number-sections -V lang=$language $metadata
     
-    - name: Extract cover
-      command: convert -density 300 $output/$base.pdf[0] dist/ebook-cover.png
-      
-    - name: Convert EPUB
-      command: pandoc -s -o $output/$base.epub $epubcover $metadata $files
-      
-    - name: Convert MOBI
-      command: ebook-convert $output/$base.epub $output/$base.mobi
-
-    - name: Convert DOCX
-      command: pandoc $files -o $output/$base.docx --from markdown --number-sections -V lang=$language
+#    - name: Extract cover
+#      command: convert -density 300 $output/$base.pdf[0] $output/ebook-cover.png
+#      
+#    - name: Convert EPUB
+#      command: pandoc -s -o $output/$base.epub --epub-cover-image=$output/ebook-cover.png $metadata $files
+#      
+#    - name: Convert MOBI
+#      command: ebook-convert $output/$base.epub $output/$base.mobi
+#
+#    - name: Convert DOCX
+#      command: pandoc $files -o $output/$base.docx --from markdown --number-sections -V lang=$language
