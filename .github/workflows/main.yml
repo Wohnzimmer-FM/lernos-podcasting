@@ -1,4 +1,4 @@
-name: Run Skribos
+name: Skribos
 
 on: [push]
 
