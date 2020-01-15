@@ -1,6 +1,10 @@
 name: Skribos
 
-on: [push]
+on:
+  push:
+    branches: 
+      - master
+      - 'preview*'
 
 jobs:
   build:
