@@ -13,22 +13,16 @@ Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der
 
 Der Podcasting Canvas besteht aus folgenden Feldern:
 
-* **Warum der Podcast?**
-<br/>Motivation, Zwecke und Vision des Podcasts
-* **Zielgruppe**
-<br />...
+**Warum der Podcast?** Motivation, Zwecke und Vision des Podcasts. Es gibt heute viele Podcasts, warum sollten sich die Hörer\*innen einen Podcast abonnieren? Welches Bedürfnis erfüllt der Podcast bzw. welches Problem löst er? Dient der Podcast dem Wissenstransfer oder eher der Unterhaltung? Warum sollte jemand Zeit und ggf. Geld in die Produktion des Podcasts investieren?
+
+* **Zielgruppe.** Die Zielgruppe des Podcasts bestimmt unter anderem das Format, die Länge und XXXXX
+
 * **Format**
-<br />...
 * **Distribution**
-<br />...
 * **Zeitplanung**
-<br />...
 * **Auftritt**
-<br />...
 * **Ressourcen und Stakeholder**
-<br />...
 * **Technik**
-<br />...
 
 ### Übung 1
 
