@@ -1,6 +1,3 @@
-Kata 2
-
-
 ## Kata 2: Plane deinen Podcast gut
 
 ### Einführung
