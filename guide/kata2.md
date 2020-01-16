@@ -28,7 +28,7 @@ Der Podcasting Canvas besteht aus folgenden Feldern:
 
 ### Übung 1
 
-Trage in dem Podcast Canvas ein warum du den Podcast starten möchtest. Was wäre dein Alleinstellungsmerkmal? Suche nach ähnlichen Podcasts in diversen Verzeichnissen (iTunes, Spotify) und schreibe auf, was dein Podcast bieten soll, was die anderen bisher nicht tun. Du investierst Zeit und ggf. Geld in den Podcast, eine Marktanalyse gehört zum Erfolg dazu.
+Trage in dem Podcast Canvas ein warum du den Podcast starten möchtest. Was wäre dein Alleinstellungsmerkmal? Du investierst Zeit und ggf. Geld in den Podcast, eine Marktanalyse gehört zum Erfolg dazu. Suche nach ähnlichen Podcasts in diversen Verzeichnissen (iTunes, Spotify) und schreibe auf, was dein Podcast bieten soll, was die anderen bisher nicht tun.
 
 ### Übung 2
 
