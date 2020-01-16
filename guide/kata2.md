@@ -20,13 +20,20 @@ Der Podcasting Canvas besteht aus folgenden Feldern:
 
 **Zeitplanung.** Wie oft wird der Podcast aufgenommen und wie oft veröffentlicht? Wie viel Zeit steht für die Produktion zur Verfügung? Im Falle von Freigaben, wie lange dauert es, bis eine Episode freigegeben wird? Wie erreicht man Veröffentlichung in regelmäßigen Abständen?
 
-* **Auftritt**
-* **Ressourcen und Stakeholder**
-* **Technik**
+**Auftritt.** Die visuelle Darstellung des Podcasts und der Ort wo der Podcast veröffentlicht wird. Zu dem Auftritt gehört mindestens ein Logo bzw. Coverbild, ein einfacher und prägnanter Name, eine Webseite oder Blog. Für den Austausch mit der Community empfiehlt sich eine Gruppe/Kanal in sozialen Medien.
+
+**Ressourcen und Stakeholder.** Die organisatorischen Schnittstellen des Podcasts in die Außenwelt. Räumlichkeiten, Personen zur Unterstützung, Equipment, Tische, Stühle usw. Im Unternehmen auch z.B. die Kommunikations- sowie die Rechtsabteilung. Wer könnte den Podcast unterstützen und wer wäre dem Format gegenüber unter Umständen nicht wohlwollend eingestellt?
+
+**Technik.** Die Aufnahmetechnik sowie Tools für die Nachbearbeitung. Welches Mikrofon soll eingesetzt werden? Welche Aufnahmegeräte und Verstärker? Brauchen Teilnehmer Kopfhörer oder nicht? Welche Software wird für die Aufnahme und Nachbearbeitung benötigt?
 
 ### Übung 1
 
+Trage in dem Podcast Canvas ein warum du den Podcast starten möchtest. Was wäre dein Alleinstellungsmerkmal? Suche nach ähnlichen Podcasts in diversen Verzeichnissen (iTunes, Spotify) und schreibe auf, was dein Podcast bieten soll, was die anderen bisher nicht tun. Du investierst Zeit und ggf. Geld in den Podcast, eine Marktanalyse gehört zum Erfolg dazu.
+
 ### Übung 2
+
+Überlege dir, für welche Zielgruppe du den Podcast produzieren möchtest.
+
 
 https://en.wikipedia.org/wiki/Business_Model_Canvas
 
