@@ -6,7 +6,7 @@ In dieser Kata legen wir den Grundstein unseres Podcasts und machen uns Gedanken
 
 Da wir noch nicht alle Fragen beantworten können, reicht es im Moment aus, die Teile zu planen, die bereits klar sind. Der Rest kommt im Laufe der Zeit und vervollständigt das Bild.
 
-Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der auf dem Business Modell Canvas von Alexander Osterwalder basiert. Diese Vorlage besteht aus mehreren Felder, die verschiedene Fragestellungen zum Podcast behandeln und digital oder in gedruckter Form bearbeitet werden. Die Einträge können jederzeit ergänzt, verschoben oder entfernt werden. Um auch in gedruckter Form die Flexibilität zu erhalten, empfiehlt es sich Klebezettel zu nutzen oder die Vorlage zu laminieren und mit einem Whiteboardmarker zu beschriften.
+Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der auf dem Business Modell Canvas von Alexander Osterwalder basiert[^1]. Diese Vorlage besteht aus mehreren Felder, die verschiedene Fragestellungen zum Podcast behandeln und digital oder in gedruckter Form bearbeitet werden. Die Einträge können jederzeit ergänzt, verschoben oder entfernt werden. Um auch in gedruckter Form die Flexibilität zu erhalten, empfiehlt es sich Klebezettel zu nutzen oder die Vorlage zu laminieren und mit einem Whiteboardmarker zu beschriften.
 
 Der Podcasting Canvas besteht aus folgenden Feldern:
 
@@ -32,9 +32,19 @@ Trage in dem Podcast Canvas ein warum du den Podcast starten möchtest. Was wär
 
 ### Übung 2
 
-Überlege dir, für welche Zielgruppe du den Podcast produzieren möchtest.
+Überlege dir, für welche Zielgruppe du den Podcast produzieren möchtest. Trage die Ergebnisse ins den Canvas ein. Folgende Fragen könnten als Stütze dienen:
 
+* Wer ist das Zielpublikum?
+* Welche Vorkenntnisse hat das Zielpublikum?
+* Welche Sprache wird gesprochen und verstanden?
+* Gibt es Bestimmte Begriffe, Abkürzungen, die der Zielgruppe geläufig sind?
+* Was wäre der typische Zeitpunkt, wann der Podcast gehört wird?
+* Welche Episodendauer wäre für das Zielpublikum angemessen?
 
-https://en.wikipedia.org/wiki/Business_Model_Canvas
+### Übung 3
+
+Mach dir jetzt schon Gedanken, wo die Aufnahme stattfinden soll undwelche Hardware und Software du einsetzen möchtest. Denn diese externen Abhängigkeiten können vor allem im Unternehmenskontext lange Zeit in Anspruch nehmen. Trage die ersten Ideen in den Canvas ein und auch wer dir mit diesen Fragen helfen kann. Zögere nicht die Person(en) frühzeitig zu kontaktieren.
+
+[^1]: https://en.wikipedia.org/wiki/Business_Model_Canvas
 
 \newpage
