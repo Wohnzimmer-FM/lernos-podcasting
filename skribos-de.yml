@@ -15,7 +15,7 @@ build:
     base: lernos-podcasting-guide-de
     language: de-de
     metadata: "--epub-metadata=metadata/metadata-de.yaml"
-    textemp: "--template=external/lernos-common/templates/lernos.latex"
+    textemp: "--template=external/lernos-common/templates/eisvogel.tex"
 
   jobs:
     - name: Clean up
