@@ -20,12 +20,13 @@ Mögliche Fragen zum Einstieg in das Thema Podcasting:
 
 Trage 5 Podcasts ein, die du kennst und gerne hörst. Teile die Liste mit dem Circle. Wenn du in sozialen Medien unterwegs bist (Twitter, LinkedIn, Xing oder im firmeninternen Netzwerk), teile diese Liste auch dort. Menschen freuen sich über Podcastempfehlungen.
 
-Todo: Tabelle
+![](guide/images/slots_5.png)\
+
 
 ### Übung 2: Kategorien
 
 Finde 5 Podcasts aus verschiedenen Kategorien, z.B. Comedy, Business, Education etc. Nutze dafür Verzeichnisse wie iTunes, Spotify oder das interne Podcastverzeichnis des Unternehmens. Höre in diese Podcasts rein und notiere die Merkmale der Kategorie. Diskutiere die Ergebnisse mit dem Circle.
 
-Todo: Tabelle
+![](guide/images/slots_5.png)\
 
 \newpage
