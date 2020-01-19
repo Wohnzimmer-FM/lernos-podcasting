@@ -9,6 +9,7 @@ chapters:
   - guide/katas.md
   - guide/kata1.md
   - guide/kata2.md
+  - guide/kata3.md
 
 build:
   vars:
@@ -24,8 +25,8 @@ build:
     - name: Create PDF
       command: pandoc $files -o $output/$base.pdf --from markdown $textemp --number-sections -V lang=$language $metadata
 
-    - name: Create HTML
-      command: pandoc $files -o $output/index.html --from markdown --number-sections -V lang=$language $metadata
+#    - name: Create HTML
+#      command: pandoc $files -o $output/index.html --from markdown --number-sections -V lang=$language $metadata
     
     - name: Extract cover
       command: convert -density 300 $output/$base.pdf[0] $output/ebook-cover.png
@@ -33,8 +34,11 @@ build:
     - name: Convert EPUB
       command: pandoc -s -o $output/$base.epub --epub-cover-image=$output/ebook-cover.png $metadata $files
       
-    - name: Convert MOBI
-      command: ebook-convert $output/$base.epub $output/$base.mobi
+#    - name: Convert MOBI
+#      command: ebook-convert $output/$base.epub $output/$base.mobi
 
     - name: Convert DOCX
       command: pandoc $files -o $output/$base.docx --from markdown --number-sections -V lang=$language
+
+#    - name: Copy images for Webseite
+#      command: mkdir -p $output/guide/images && cp guide/images/*.png $output/guide/images
