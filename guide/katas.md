@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-In den 11 Katas lernen die Teilnehmenden den Ablauf der Podcastproduktion. Ziel ist es am Ende des Lernpfades zwei Aufnahmen gemacht und veröffentlich zu haben.
+In den 11 Katas lernen die Teilnehmenden den Ablauf der Podcastproduktion. Ziel ist es am Ende des Lernpfades zwei Aufnahmen gemacht und veröffentlicht zu haben.
 
 * **Kata 1: Wir starten mit Podcasts.** Die initiale Kata bringt die Teilnehmenden zusammen, sie tauschen sich über ihre Erfahrungen mit Podcasts aus und über ihre Motivation eines eigenen Podcasts.
 
