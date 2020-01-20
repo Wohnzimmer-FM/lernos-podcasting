@@ -8,7 +8,7 @@ Da wir noch nicht alle Fragen beantworten können, reicht es im Moment aus, die 
 
 Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der auf dem Business Modell Canvas von Alexander Osterwalder basiert[^1]. Diese Vorlage besteht aus mehreren Felder, die verschiedene Fragestellungen zum Podcast behandeln und digital oder in gedruckter Form bearbeitet werden. Die Einträge können jederzeit ergänzt, verschoben oder entfernt werden. Um auch in gedruckter Form die Flexibilität zu erhalten, empfiehlt es sich Klebezettel zu nutzen oder die Vorlage zu laminieren und mit einem Whiteboardmarker zu beschriften.
 
-![Vorlage für den Podcasting Canvas](guide/images/podcast_canvas.png){ width=60% }
+![Vorlage für den Podcasting Canvas](images/podcast_canvas.png){ width=60% }
 
 Der Podcasting Canvas besteht aus folgenden Feldern:
 
