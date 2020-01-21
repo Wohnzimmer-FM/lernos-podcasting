@@ -1,20 +1,18 @@
 from: markdown
 
 input-files:
-    - guide/katas.md
-    - guide/kata1.md
-    - guide/kata2.md
-    - guide/kata3.md
-
-metadata-files:
-    - resources/metadata/metadata-de.yaml
-
-#extract-media: dist/images
-
-number-sections: true
-
-template: external/lernos-common/templates/eisvogel.tex
+    - chapters/katas.md
+    - chapters/kata1.md
+    - chapters/kata2.md
+    - chapters/kata3.md
 
 resource-path:
     - resources
     - external/lernos-media/resources
+
+metadata-files:
+    - resources/metadata/metadata-de.yaml
+
+epub-metadata: resources/metadata/metadata-de.yaml
+
+number-sections: true
