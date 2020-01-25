@@ -1,0 +1,2 @@
+https://github.com/Wohnzimmer-FM/lernos-common.git master
+https://github.com/Wohnzimmer-FM/lernos-media.git master

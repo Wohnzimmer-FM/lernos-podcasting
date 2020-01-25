@@ -1,0 +1,18 @@
+from: markdown
+
+input-files:
+    - chapters/katas.md
+    - chapters/kata1.md
+    - chapters/kata2.md
+    - chapters/kata3.md
+
+resource-path:
+    - resources
+    - external/lernos-media/resources
+
+metadata-files:
+    - resources/metadata/metadata-de.yaml
+
+epub-metadata: resources/metadata/metadata-de.yaml
+
+number-sections: true
