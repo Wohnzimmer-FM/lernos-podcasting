@@ -8,10 +8,10 @@ Online lesen:
 https://wohnzimmer-fm.github.io/lernos-podcasting/master/
 
 Download als Datei:
-[PDF](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.pdf),
-[DOCX](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.docs),
-[EPUB](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.epub),
-[MOBI](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.mobi)
+* [PDF](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.pdf)
+* [DOCX](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.docs)
+* [EPUB](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.epub)
+* [MOBI](https://wohnzimmer-fm.github.io/lernos-podcasting/master/lernos-podcasting-guide-de.mobi)
 
 ## Dokumentation generieren
 

@@ -1,0 +1,1 @@
+docker run --volume "$(pwd):/data" leonidlezner/skribos:0.7 ./tools/update.sh

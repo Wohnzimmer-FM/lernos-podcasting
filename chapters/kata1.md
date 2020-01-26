@@ -1,8 +1,8 @@
-# Kata 1: Wir starten mit Podcasts
+## Kata 1: Wir starten mit Podcasts
 
-## Einführung
+### Einführung
 
-Für die initiale Kata kommen die Teilnehmenden zusammen und tauschen sich über ihre Erfahrungen mit Podcasts aus. Wie Menschen Podcasts hören ist sehr individuell und hängt stark von der Situation und persönlichen Umständen ab. Der Austausch über Podcatcher und Podcasts ist empfohlen, die erste Kata, auch Kata 0 genannt, soll jedoch hauptsächlich zum Kennenlernen der Teilnehmenden genutzt werden.
+Für die initiale Kata kommen die Teilnehmenden zusammen und tauschen sich über ihre Erfahrungen mit Podcasts aus. Wie Menschen Podcasts hören ist sehr individuell und hängt stark von der Situation und persönlichen Umständen ab. Der Austausch über Podcatcher und Podcasts ist empfohlen, die erste Kata soll jedoch hauptsächlich zum Kennenlernen der Teilnehmenden genutzt werden.
 
 Mögliche Fragen zum Einstieg in das Thema Podcasting:
 
@@ -16,13 +16,17 @@ Mögliche Fragen zum Einstieg in das Thema Podcasting:
 * Welche App nutze ich, um Podcasts zu abonnieren?
 * Was motiviert mich einen eigenen Podcast zu starten?
 
-## Übungen
-
 ### Übung 1: Lieblingspodcasts
 
 Trage 5 Podcasts ein, die du kennst und gerne hörst. Teile die Liste mit dem Circle. Wenn du in sozialen Medien unterwegs bist (Twitter, LinkedIn, Xing oder im firmeninternen Netzwerk), teile diese Liste auch dort. Menschen freuen sich über Podcastempfehlungen.
+
+![](images/slots_5.svg)\
 
 
 ### Übung 2: Kategorien
 
 Finde 5 Podcasts aus verschiedenen Kategorien, z.B. Comedy, Business, Education etc. Nutze dafür Verzeichnisse wie iTunes, Spotify oder das interne Podcastverzeichnis des Unternehmens. Höre in diese Podcasts rein und notiere die Merkmale der Kategorie. Diskutiere die Ergebnisse mit dem Circle.
+
+![](images/slots_5.svg)\
+
+\newpage
