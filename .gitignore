@@ -2,3 +2,4 @@ dist/
 .DS_Store
 *.sh~
 external/
+bin/
