@@ -1,1 +1,2 @@
-rm -r dist/
+rm -rf dist/
+rm -rf external/
