@@ -15,9 +15,9 @@ jobs:
       run: echo ::set-output name=reference::${GITHUB_REF:11}
       id: branch
     - name: Update Skribos dependencies
-      run: docker run --volume "$(pwd):/data" leonidlezner/skribos ./tools/update.sh
+      run: docker run --volume "$(pwd):/data" leonidlezner/skribos skribos_update.sh
     - name: Run Skribos for German version
-      run: docker run --volume "$(pwd):/data" leonidlezner/skribos ./tools/build.sh dist/${{ steps.branch.outputs.reference }} lernos-podcasting-guide-de de-DE
+      run: docker run --volume "$(pwd):/data" leonidlezner/skribos skribos_build.sh dist/${{ steps.branch.outputs.reference }} lernos-podcasting-guide-de de-DE
     - name: Deploy to Github Pages
       uses: crazy-max/ghaction-github-pages@v1
       with:

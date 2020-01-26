@@ -1,1 +1,1 @@
-docker run --volume "$(pwd):/data" leonidlezner/skribos:0.7 ./tools/build.sh dist lernos-podcasting-guide-de de-DE
+docker run --volume "$(pwd):/data" leonidlezner/skribos skribos_build.sh dist lernos-podcasting-guide-de de-DE
