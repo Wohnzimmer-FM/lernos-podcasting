@@ -4,9 +4,9 @@ Zu einem Podcast gehört auch eine visuelle Darstellung: Ein Coverbild mit Titel
 
 ### Coverbild
 
-Das Coverbild des Podcasts ist das Aushängeschild, es ist immer sichtbar: Auf einer Webseite, bei Spotify, in dem Podcatcher und sogar im Multimediasystem des Autos. Daher sollte dieses Bild einfach, prägnant und ansprechend aussehen.
+Ein Coverbild ist das Aushängeschild des Podcasts, es ist immer sichtbar: Auf einer Webseite, bei Spotify, in dem Podcatcher und sogar im Multimediasystem des Autos. Daher sollte dieses Bild einfach, prägnant und ansprechend aussehen.
 
-Bei prominenten Personen kann auf dem Cover das Bild der Person mit dem Titel bereits genügen. Bei weniger bekannten Menschen sollte das Coverbild die Idee oder den Charakter des Podcasts transportieren. Ein schnell erkennbare Darstellung, dank derer der Podcast unter vielen anderen Covern erkannt wird.
+Das Coverbild muss die Idee oder den Charakter des Podcasts transportieren. Eine schnell erkennbare Darstellung, dank derer der Podcast unter vielen anderen Covern erkannt wird.
 
 Weitere hilfreiche Tipps und Anleitungen findest du im Internet. Hier ist eine kleine Auswahl, die dir den Einstieg erleichtert:
 
