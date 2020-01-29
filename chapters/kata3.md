@@ -19,11 +19,24 @@ Weitere hilfreiche Tipps und Anleitungen findest du im Internet. Hier ist eine k
 
 ### Webauftritt
 
+Der Podcast wird in den meisten Fällen über die bekannten Verzeichnisse entdeckt und abonniert. Einige dieser Verzeichnisse bieten die Möglichkeit die Dokumente wie Audiodateien und Grafiken direkt beim Dienst abzulegen (z.B. Spotify). Andere wiederum sind auf den Webspace des Podcasters/der Podcasterin angewiesen (z.B. iTunes). In diesem Falle muss der Podcast auch einen Webauftritt haben.
+
+Der Webauftritt kann unterstützende Informationen anbieten, wie Downloads von zusätzlichem Material. Eine Webseite bietet außerdem die Möglichkeit mit den Hörer*innen zu kommunizieren und Feedback zu erhalten.
+
+Es kann sich bei dem Webauftritt auch um eine Seite im Intranet oder Enterprise Social Network handeln, wenn im Unternehmen vorhanden.
+
 ### Social Media
 
+Ein weiterer Kanal, um mit dem Publikum in Kontakt zu treten sind Social Media Plattformen. Es bieten sich bekannte öffentliche Plattformen wie Twitter und Facebook oder auch firmeninterne Plattformen an. Der Vorteil dieser sozialen Plattformen gegenüber einem Webauftritt ist die hohe Reichweite und schnelle und direktere Kommunikation: Man kann schneller eine Beziehung zur Podcastenden aufbauen.
 
 ### Übung 1
 
+Suche den geeigneten Ort für den Auftritt deines Podcasts. Stelle eine Liste zusammen und bewerte welche Vor- und Nachteile der jeweilige Ort bietet. Wenn du nicht weiterkommst, stelle eine Liste von Personen zusammen, die dich unterstützen könnten. Kontaktiere diese Personen, um den geeigneten Ort für den Podcast zu finden.
+
+![](images/slots_5.svg)\
+
 ### Übung 2
+
+
 
 \newpage
