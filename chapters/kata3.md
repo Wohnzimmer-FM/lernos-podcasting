@@ -23,11 +23,11 @@ Der Podcast wird in den meisten Fällen über die bekannten Verzeichnisse entdec
 
 Der Webauftritt kann unterstützende Informationen anbieten, wie Downloads von zusätzlichem Material. Eine Webseite bietet außerdem die Möglichkeit mit den Hörer*innen zu kommunizieren und Feedback zu erhalten.
 
-Es kann sich bei dem Webauftritt auch um eine Seite im Intranet oder Enterprise Social Network handeln, wenn im Unternehmen vorhanden.
+Es kann sich bei dem Webauftritt auch um eine Seite im Intranet oder Blog im Enterprise Social Network handeln, wenn im Unternehmen vorhanden.
 
 ### Social Media
 
-Ein weiterer Kanal, um mit dem Publikum in Kontakt zu treten sind Social Media Plattformen. Es bieten sich bekannte öffentliche Plattformen wie Twitter und Facebook oder auch firmeninterne Plattformen an. Der Vorteil dieser sozialen Plattformen gegenüber einem Webauftritt ist die hohe Reichweite und schnelle und direktere Kommunikation: Man kann schneller eine Beziehung zur Podcastenden aufbauen.
+Ein weiterer Kanal, um mit dem Publikum in Kontakt zu treten sind Social Media Plattformen. Es bieten sich bekannte öffentliche Plattformen wie Twitter und Facebook oder auch firmeninterne Plattformen an. Der Vorteil dieser Social Media Plattformen gegenüber einem Webauftritt ist die hohe Reichweite und die direktere Kommunikation: Man kann schneller eine Beziehung zum Publikum aufbauen. Man sollte jedoch den zeitlichen Aufwand nicht unterschätzen, der in die Betreuung von dem Social Profil investiert wird: Beiträge schreiben, auf Reaktionen und Fragen der Menschen zeitnah und persönlich reagieren.
 
 ### Übung 1
 
