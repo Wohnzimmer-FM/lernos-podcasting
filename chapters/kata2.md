@@ -47,6 +47,11 @@ Trage in dem Podcast Canvas ein warum du den Podcast starten möchtest. Was wär
 
 Mach dir jetzt schon Gedanken, wo die Aufnahme stattfinden soll und welche Hardware und Software du einsetzen möchtest. Denn diese externen Abhängigkeiten können vor allem im Unternehmenskontext lange Zeit in Anspruch nehmen. Trage die ersten Ideen in den Canvas ein und auch wer dir mit diesen Fragen helfen kann. Zögere nicht die Person(en) frühzeitig zu kontaktieren.
 
+### Übung 4
+
+Beschreibe deinen Podcast in maximal 10 Wörtern. Ist diese Beschreibung verständlich für deine Zielgruppe? Lasse dir von anderen Personen dazu Feedback geben. Wenn die Beschreibung unverständlich ist, kannst du sie anpassen oder deine Zielgruppe besser eingrenzen. Diese 10 Wörter sind eine Vision des Podcasts und können bei inhaltlichen Entscheidungen als Stütze genutzt werden.
+
+
 [^1]: https://en.wikipedia.org/wiki/Business_Model_Canvas
 
 \newpage
