@@ -5,6 +5,8 @@ input-files:
     - chapters/kata1.md
     - chapters/kata2.md
     - chapters/kata3.md
+    - chapters/kata4.md
+    - chapters/kata5.md
 
 resource-path:
     - resources
