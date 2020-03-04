@@ -30,12 +30,12 @@ In dieser Übung sollen unterschiedliche Räume genutzt werden, um den Eindruck 
 * Aufnahme im Badezimmer oder verglasten Meetingraum
 * Aufnahme im Keller, Bücherei
 
-### Übung 3: Erste Aufnahmen
+### Übung 3: Erste Probeaufnahmen
 
 Für den ersten Beitrag kann ein fertiger, möglichst einfacher Text genommen und vorgelesen werden. Das entspricht zwar nicht der normalen Podcastaufnahme, ermöglicht jedoch die Konzentration auf Sprechen und nicht auf den Inhalt. Bei der Aufnahme ist auf das Sprechtempo und Atempausen zu achten. Diese Übung kann man mehrmals wiederholen, bis das Ergebnis den eigenen Qualitätsansprüchen genügt.
 
 ### Übung 4: Erste Episode
 
-Basierend auf der Podcastplanung, der Vision und Zielgruppe kann die erste Pilotfolge gemacht werden, die den Hörerinnen und Hörern den Podcast vorstellt und schon Appetit auf die nächste Folgen erweckt.
+Basierend auf der Podcastplanung, der Vision und Zielgruppe kann die erste Pilotfolge gemacht werden, die den Hörerinnen und Hörern den Podcast vorstellt und schon Appetit auf die nächste Folgen macht.
 
 \newpage
