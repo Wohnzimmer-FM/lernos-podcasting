@@ -14,6 +14,16 @@ Wenn die Aufnahmequalität des Smartphones (siehe Kata 4) ausreicht, wäre die A
 
 ### Übung 2: Raum
 
+Suche einen passenden Raum für Aufnahmen und bereite ihn vor. Der Raum sollte möglichst wenig schallreflektierende Flächen enthalten. Dazu zählen nackte Wände, Glasscheiben. Um die reflexionen zu minimieren einigen sich Vorhänge, Bücherschränke, Sofas - im Grunde alle Möbel, die wenig harte plane Flächen aufweisen. Wenn so eine Möblierung nicht möglich ist, lassen sich die Wände auch mit Schallabsoerbern bekleiden (Schaumstoff).
+
+Wenn bei der Ausgestaltung des Raumes keine Freiheiten gibt oder das Podcastformat grundsätzlich mobile Aufnahmen vorsieht, die sich mit der vorgefundenen Umgebung zufriedengeben müssen, kann man durch die Wahl des Mikrofons die Raumprobleme kompensieren. Ein dynamisches Mikrofon mit einer Nierencharakteristik ist weniger empfindlich für Störgeräusche und den Raumklang.
+
+### Übung 3: Reibungsloser Ablauf
+
+Mach dir eine Checkliste, die du jedes Mal vor der Aufnahme durchgehst. Vor allem in Interviewsituationen kann es hecktisch werden und Details verlieren sich aus dem Auge.
+
+### Übung 4: Erstes Probeinterview
+
 
 
 \newpage
