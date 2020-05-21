@@ -1,7 +1,7 @@
 from: markdown
 
 input-files:
-    - chapters/katas.md
+    - chapters/00-katas.md
     - chapters/kata1.md
     - chapters/kata2.md
     - chapters/kata3.md
