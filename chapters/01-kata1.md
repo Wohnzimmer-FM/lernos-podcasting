@@ -1,4 +1,4 @@
-## Kata 1: Wir starten mit Podcasts und eigenen Ideen
+## Kata 1: Starte mit Lieblingspodcasts und eigenen Ideen
 
 ### Einführung
 

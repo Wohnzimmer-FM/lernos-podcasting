@@ -2,11 +2,11 @@
 
 ### Einführung
 
-In dieser Kata legen wir den Grundstein unseres Podcasts und machen uns Gedanken, die das Format bestimmen werden. Diese Planung begleitet uns auch in den nächsten Katas und hilft den Fokus zu behalten.
+Der Aufbruch in die Welt der Podcastproduktion kann schon beängstigend sein. Am Anfang steht man vielen Herausforderungen gegenüber und weiß nicht so recht, wie man den ersten Schritt wagen sollte. Viele Abenteurer wurden von einer Landkarte begleitet, die ihnen Halt und Struktur bat. So eine Karte werden wir nun auch anfertigen: In dieser Kata zeichnen wir den Grundriss unseres Podcasts und machen uns Gedanken, die das Format bestimmen werden. Diese Planung begleitet uns auch in den nächsten Katas und hilft den Fokus zu behalten.
 
 Da wir noch nicht alle Fragen beantworten können, reicht es im Moment aus, die Teile zu planen, die bereits klar sind. Der Rest kommt im Laufe der Zeit und vervollständigt das Bild.
 
-Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der auf dem Business Modell Canvas von Alexander Osterwalder basiert[^1]. Diese Vorlage besteht aus mehreren Felder, die verschiedene Fragestellungen zum Podcast behandeln und digital oder in gedruckter Form bearbeitet werden. Die Einträge können jederzeit ergänzt, verschoben oder entfernt werden. Um auch in gedruckter Form die Flexibilität zu erhalten, empfiehlt es sich Klebezettel zu nutzen oder die Vorlage zu laminieren und mit einem Whiteboardmarker zu beschriften.
+Als Vorlage und Struktur des Podcasts wird der „Podcast Canvas“ genutzt, der auf dem Business Modell Canvas von Alexander Osterwalder basiert[^1]. Diese Vorlage besteht aus mehreren Feldern, die die verschiedenen Fragestellungen zum Podcast behandeln und digital oder in gedruckter Form bearbeitet werden. Die Einträge können jederzeit ergänzt, verschoben oder entfernt werden. Um auch in gedruckter Form die Flexibilität zu erhalten, empfiehlt es sich Klebezettel zu nutzen oder die Vorlage zu laminieren und mit einem Whiteboardmarker zu beschriften.
 
 ![Vorlage für den Podcasting Canvas](images/podcast_canvas.png){ width=60% }
 

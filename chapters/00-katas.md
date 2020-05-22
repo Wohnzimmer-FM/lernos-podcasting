@@ -4,7 +4,7 @@
 
 In den 11 Katas lernen die Teilnehmenden den Ablauf der Podcastplanung und -produktion. Ziel ist es am Ende des Lernpfades zwei Aufnahmen gemacht und veröffentlicht zu haben.
 
-* **Kata 1: Wir starten mit Podcasts und eigenen Ideen.** Wir starten die Podcasting-Reise, sammeln Eindrücke beim Hören anderer Podcasts und formulieren die ersten Ideen für eigene Podcastformate.
+* **Kata 1: Starte mit Lieblingspodcasts und eigenen Ideen.** Wir starten die Podcasting-Reise, sammeln Eindrücke beim Hören anderer Podcasts und formulieren die ersten Ideen für eigene Podcastformate.
 
 * **Kata 2: Plane deinen Podcast gut.** Einen erfolgreichen Podcast machen viele Faktoren aus und müssen gut geplant sein. Die Planung in dieser Kata wird mit einem Podcast Canvas vorgenommen und begleitet die Teilnehmenden bis zum Schluss des Lernpfades.
 
