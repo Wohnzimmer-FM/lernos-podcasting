@@ -1,4 +1,4 @@
-## Kata 3: Bereite den Auftritt des Podcasts vor
+## Kata 8: Bereite den Auftritt des Podcasts vor
 
 ### Einführung
 

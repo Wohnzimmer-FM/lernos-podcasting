@@ -1,4 +1,4 @@
-## Kata 4: Mache die erste Aufnahme
+## Kata 5: Mache die erste Aufnahme
 
 ### Einführung
 

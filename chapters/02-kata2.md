@@ -51,6 +51,17 @@ Mach dir jetzt schon Gedanken, wo die Aufnahme stattfinden soll und welche Hardw
 
 Beschreibe deinen Podcast in maximal 10 Wörtern. Ist diese Beschreibung verständlich für deine Zielgruppe? Lasse dir von anderen Personen dazu Feedback geben. Wenn die Beschreibung unverständlich ist, kannst du sie anpassen oder deine Zielgruppe besser eingrenzen. Diese 10 Wörter sind eine Vision des Podcasts und können bei inhaltlichen Entscheidungen als Stütze genutzt werden.
 
+### Bonustrack 1
+
+Am Anfang haben die angehende Podcaster*innen große Motivation und Lust ein eigenes Format zu starten. Es gibt aber auch Ängste und Zweifel, die die Motivation dämpfen und den Fortschritt verlangsamen. Oft stellen sich die Menschen die Fragen, ob man ihnen gerne zuhören würde oder ob man ihre Stimme mag. Da empfiehlt es sich auf die positiven Aspekte zu konzentrieren:
+
+* Welche Ressourcen stehen mir zur Verfügung?
+* Was kann ich besonders gut, was macht mir Spaß?
+* Welche Fähigkeiten schätze ich und andere Menschen an mir?
+* Was fühlt sich für mich natürlich, wann bin ich authentisch?
+* Wie empfinden andere Menschen meine Stimme?
+* In welchen Situation rede ich gerne und Menschen hören mir gerne zu?
+
 
 [^1]: https://en.wikipedia.org/wiki/Business_Model_Canvas
 

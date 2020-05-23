@@ -1,4 +1,4 @@
-## Kata 5: Baue dein eigenes Podcaststudio
+## Kata 6: Baue dein eigenes Podcaststudio
 
 ### Einführung
 
