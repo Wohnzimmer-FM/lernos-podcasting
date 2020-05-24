@@ -10,9 +10,9 @@ In den 11 Katas lernen die Teilnehmenden den Ablauf der Podcastplanung und -prod
 
 * **Kata 2: Plane deinen Podcast gut.** Einen erfolgreichen Podcast machen viele Faktoren aus und müssen gut geplant sein. Die Planung in dieser Kata wird mit einem Podcast Canvas vorgenommen und begleitet die Teilnehmenden bis zum Schluss des Lernpfades.
 
-* **Kata 3: Suche Vorbilder und Communities.** ...
+* **Kata 3: Suche Vorbilder und Communities.** Podcasts leben von ihren Communities und den Austausch mit dem Publikum. Nicht weniger wichtig sind die Comminities in denen sich die Macher\*innen der Podcasts austauschen und ihr Können verbessern.
 
-* **Kata 4: Kümmere dich um Technik, Software und Gäste.** ...
+* **Kata 4: Kümmere dich um Technik, Software und Gäste.** Die passende Technik und Software zu finden und sich mit ihr vertraut zu machen kann einige Zeit kosten. Und wenn man Interviews oder Gespräche aufnehmen möchte, dann sollte man frühzeitig Kontakt mit den betroffenen Personen aufnehmen.
 
 * **Kata 5: Mache die ersten Aufnahmen.** Podcaster\*innen benötigen viel Übung, um Technik zu beherrschen und guten Ton aufzunehmen. Daher fangen die Teilnehmenden möglichst früh damit an die ersten praktischen Erfahrungen zu sammeln. Für diese Kata reicht einfaches Equipment aus, wie zum Beispiel ein Smartphone.
 
@@ -26,6 +26,6 @@ In den 11 Katas lernen die Teilnehmenden den Ablauf der Podcastplanung und -prod
 
 * **Kata 10: Verarbeite Feedback und lass es in die zweite Episode einfließen.** Mit den Erfahrungen aus den vorherigen Katas, der Veröffentlichung der ersten Episode und des Feedbacks wird nun die zweite Episode in einer einzigen Kata fertiggestellt: Aufnahme, Nachbearbeitung und Veröffentlichung. Auch da empfiehlt es sich Feedback einzuholen.
 
-* **Kata 11: Tausche Erfahrungen aus.** ...
+* **Kata 11: Tausche Erfahrungen aus.** Am Ende der langen Reise haben wir viele Erfahrungen gewonnen und Feedback gesammelt. Nun tauschen wir uns mit anderen Podcaster*innen aus und geben Tipps, damit auch andere Menschen mit Podcasts einfacher starten können.
 
 \newpage
