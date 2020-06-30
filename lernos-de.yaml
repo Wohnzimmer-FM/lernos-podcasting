@@ -4,9 +4,10 @@ input-files:
     - chapters/00-katas.md
     - chapters/01-kata1.md
     - chapters/02-kata2.md
-    #- chapters/kata3.md
-    #- chapters/kata4.md
-    #- chapters/kata5.md
+    - chapters/03-kata3.md
+    - chapters/05-kata5.md
+    - chapters/06-kata6.md
+    - chapters/08-kata8.md
 
 resource-path:
     - resources
